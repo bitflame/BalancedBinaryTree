@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\BalancedBinaryTree.exe.config
+C:\Users\usr\source\repos\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\BalancedBinaryTree.exe
+C:\Users\usr\source\repos\BalancedBinaryTree\BalancedBinaryTree\bin\Debug\BalancedBinaryTree.pdb
+C:\Users\usr\source\repos\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.exe
+C:\Users\usr\source\repos\BalancedBinaryTree\BalancedBinaryTree\obj\Debug\BalancedBinaryTree.pdb
